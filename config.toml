@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://howlaind.com/'
 languageCode = 'zh-cn'
 title = '遗穗'
 theme = "diary"
